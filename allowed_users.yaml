@@ -90,7 +90,11 @@ credentials:
       password: "$2b$12$JCMaB.9.bsFUgErdRAjPfuK03QKOhWxgbZOzsxara4JK42jWl.1Z."
       role: "user"
       email: "nikunj@gmail.com"  # Add email field
-
+    madhav@gmail.com:
+      name: "Madhavdas G"
+      password: "$2b$12$fa7o7dyQCg560iXv1BLUsuFsin5TR16aXt3txuWxXMJwLME6i3b9K"
+      role: "user"
+      email: "madhav@gmail.com"  # Add email field
 
 
 blocked_users:
