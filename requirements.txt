@@ -8,5 +8,6 @@ scipy
 streamlit
 streamlit-authenticator
 pyyaml
-
+gsspread
+google-auth
 
