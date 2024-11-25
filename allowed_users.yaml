@@ -80,6 +80,17 @@ credentials:
       password: "$2b$12$hwhQSpqc2N811T8p1v/tg.ROMumpxlKu8k3lPDlI2DAYquXdQ7i/C"
       role: "user"
       email: "shariff@gmail.com"  # Add email field
+    rahul@gmail.com:
+      name: "Rahul S"
+      password: "$2b$12$.Hx4aBAJTfrkeTKYXMGrF.OH.44Ib1MNdC7oEbxQQMxfmu.B4.8eC"
+      role: "user"
+      email: "rahul@gmail.com"  # Add email field
+    nikunj@gmail.com:
+      name: "Nikunj G"
+      password: "$2b$12$JCMaB.9.bsFUgErdRAjPfuK03QKOhWxgbZOzsxara4JK42jWl.1Z."
+      role: "user"
+      email: "nikunj@gmail.com"  # Add email field
+
 
 
 blocked_users:
