@@ -95,7 +95,7 @@ credentials:
       password: "$2b$12$fa7o7dyQCg560iXv1BLUsuFsin5TR16aXt3txuWxXMJwLME6i3b9K"
       role: "user"
       email: "madhav@gmail.com"  # Add email field
-   ashish@gmail.com:
+    ashish@gmail.com:
       name: "Ashish Jain"
       password: "$2b$12$Di.ZWKHq9Mhadfni3oMoqe.UAYeSw8IaatL7d3teTLjT6O2iu8rvW"
       role: "user"
