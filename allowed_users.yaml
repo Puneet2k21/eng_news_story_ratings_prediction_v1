@@ -110,6 +110,21 @@ credentials:
       password: "$2b$12$URkVg3i7fi4HqGKcyyYdXue.JgTQUe1bKn5m7xWnt9wXXyAOQHeei"
       role: "user"
       email: "vivek@gmail.com"  # Add email field
+    anup@gmail.com:
+      name: "Anup V"
+      password: "$2b$12$yLYHf7rUw2OCKM2AEeJJ0e3kGOV629RTsFJOPLlgj3kk6OlSOHSOG"
+      role: "user"
+      email: "anup@gmail.com"  # Add email field
+    jignesh@gmail.com:
+      name: "Jignesh K"
+      password: "$2b$12$8EdKvPyDxllKN6HkG70C7e7igPAgQumrW0NyIHgq1vWBK7ELpJniO"
+      role: "user"
+      email: "jignesh@gmail.com"  # Add email field
+    anand@gmail.com:
+      name: "Anand"
+      password: "$2b$12$90aPIkRQrWEIUPlFSaf.neiV9o5LOKc6xZm0wVYieRQcwJVAzbWS2"
+      role: "user"
+      email: "anand@gmail.com"  # Add email field
     admin1@gmail.com:
       name: "Admin1"
       password: "$2b$12$AEujJmw5Z54zgQvB8F90SOxOEVc1XmYosVm9Sy/m0kUVbcpWp7yB2"
