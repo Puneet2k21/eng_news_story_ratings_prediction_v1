@@ -95,7 +95,36 @@ credentials:
       password: "$2b$12$fa7o7dyQCg560iXv1BLUsuFsin5TR16aXt3txuWxXMJwLME6i3b9K"
       role: "user"
       email: "madhav@gmail.com"  # Add email field
-
+   ashish@gmail.com:
+      name: "Ashish Jain"
+      password: "$2b$12$Di.ZWKHq9Mhadfni3oMoqe.UAYeSw8IaatL7d3teTLjT6O2iu8rvW"
+      role: "user"
+      email: "ashish@gmail.com"  # Add email field
+    gaurav@gmail.com:
+      name: "Gaurav Dhawan"
+      password: "$2b$12$6oWR4fMTMWA1OQw1X1Lqp.jQBR1eWbJpgRAO5sn7CpxkIU9lzBq2i"
+      role: "user"
+      email: "gaurav@gmail.com"  # Add email field
+    vivek@gmail.com:
+      name: "Vivek S"
+      password: "$2b$12$URkVg3i7fi4HqGKcyyYdXue.JgTQUe1bKn5m7xWnt9wXXyAOQHeei"
+      role: "user"
+      email: "vivek@gmail.com"  # Add email field
+    admin1@gmail.com:
+      name: "Admin1"
+      password: "$2b$12$AEujJmw5Z54zgQvB8F90SOxOEVc1XmYosVm9Sy/m0kUVbcpWp7yB2"
+      role: "admin1"
+      email: "admin1@gmail.com"  # Add email field
+    admin2@gmail.com:
+      name: "Admin2"
+      password: "$2b$12$felWrH3LMd3qjrhkq0QHSuzDh77xtp9fBi20TVibDEczbam2RdMcu"
+      role: "admin2"
+      email: "admin2@gmail.com"  # Add email field
+    admin3@gmail.com:
+      name: "Admin3"
+      password: "$2b$12$PKAleAReWPXJMdg9VJiaEujE8KNwvff8sEh3SL4GeP.8Cd8571lO."
+      role: "admin3"
+      email: "admin3@gmail.com"  # Add email field
 
 blocked_users:
   - xyz7@gmail.com
