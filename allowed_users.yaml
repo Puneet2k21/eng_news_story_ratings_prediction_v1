@@ -125,6 +125,11 @@ credentials:
       password: "$2b$12$PKAleAReWPXJMdg9VJiaEujE8KNwvff8sEh3SL4GeP.8Cd8571lO."
       role: "admin3"
       email: "admin3@gmail.com"  # Add email field
+    jagdish@gmail.com:
+      name: "Jagdish Mulchandani"
+      password: "$2b$12$WERzETUeUFQjEk/3ENAXL.zyFtHQHk5IVZL/nzsPgj5fnjUEPyU5a"
+      role: "user"
+      email: "jagdish@gmail.com"  # Add email field
 
 blocked_users:
   - xyz7@gmail.com
